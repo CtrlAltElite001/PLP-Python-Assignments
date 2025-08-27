@@ -33,7 +33,7 @@ vehicles = [Car(), Plane(), Boat(), Bike()]
 
 for v in vehicles:
     print(v.move())
-🧑‍💻 How to Run
+*## 🧑‍💻 How to Run*
 
 1. Clone this repository or copy the code into a .py file.
 
